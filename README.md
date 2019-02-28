@@ -1,4 +1,4 @@
 # hello-world
 My first repository 
 
-I am brand new at this a very confused.
+I am brand new at this and very confused.
